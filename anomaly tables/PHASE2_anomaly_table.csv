@@ -1,0 +1,2 @@
+state,district,year_month,total_enrolments,total_bio_updates,bio_zscore,category,severity,explanation
+Status,Note,Analysis,,"System Stable (Z-score threshold: >1.5)","0 anomalies detected","GREEN - No Issues","LOW","The biometric update system is operating within normal parameters. No elevated cases detected across all 11048 district-months."

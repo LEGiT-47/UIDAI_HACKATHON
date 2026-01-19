@@ -1,0 +1,7 @@
+Week,Phase,Duration,Start_Date,Key_Activities,Resources,Budget_₹K,Risk
+0,Assessment & Planning,1 week,2024-02-01,Site survey (each district); Staff interview (current technicians),"3 UIDAI field consultants, 1 data analyst",150,Delays in stakeholder alignment
+1-2,Infrastructure Setup,2 weeks,2024-02-08,Device calibration (all enrollment stations); Network redundancy deployment,"2 device technicians, 1 network engineer",200,Device procurement delays
+3-4,Staff Training & Process,2 weeks,2024-02-22,Error recovery SOP training (all staff); Device troubleshooting workshop,"1 training manager, 5 trainers (local)",180,Staff turnover during training
+5,Pilot Testing,1 week,2024-03-07,Full system run with new processes; Monitor UER real-time,"1 pilot manager, 2 support engineers",100,Unforeseen technical issues
+6,Full Go-Live,1 week,2024-03-14,Activate new processes (all 5 districts); 24/7 support hotline,"1 program manager, 5 support staff",120,New issues post-launch
+7-12,Stabilization & Optimization,6 weeks,2024-03-21,Weekly performance reviews; Continuous optimization,1 program manager (20% time),80,Regression if support withdrawn too early

@@ -1,0 +1,7 @@
+Role,Current State,Target State,Annual Cost (₹K)
+Enrollment Officers,60 (1 per 138 enrollments),45 (optimized shift),18000 → 13500
+Device Technicians,8 (reactive maintenance),4 (preventive maintenance),2400 → 1200
+Supervisors,2 (oversee 30+ staff),"2 (same, better trained)",600 → 600
+Data Quality Checker,0 (no QA),1 (real-time QA),0 → 300
+Support (HQ),2 (firefighting),0 (automated monitoring),600 → 0
+TOTAL TEAM,72 FTE,52 FTE,21600 → 15600
