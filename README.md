@@ -182,17 +182,5 @@ uidai/
     README.md
 ```
 
----
-
-## 🎓 What Makes This Analysis Strong
-
-1. **Discipline over Flash**: No fancy ML; solid EDA + operational metrics
-2. **Problem → Solution**: Identifies stress → quantifies via UER/BSI/DDI → recommends action
-3. **Fairness Aware**: DDI ensures comparison across states with different baselines
-4. **Scalable Framework**: Easily adapted for real-time monitoring, forecasting
-5. **Opinionated**: Clear recommendations (e.g., "Deploy to top-15 districts") vs. vague analysis
-6. **Documented**: Code, charts, writeup all professional quality
-
----
 
 **Generated:** January 2026
